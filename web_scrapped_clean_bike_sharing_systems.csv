@@ -1,0 +1,890 @@
+"","COUNTRY","CITY","SYSTEM"
+"1","Albania","Tirana",NA
+"2","Argentina","Buenos Aires","Serttel Brasil"
+"3","Argentina","Mendoza",NA
+"4","Argentina","Rosario",NA
+"5","Argentina","San Lorenzo, Santa Fe","Biciudad"
+"6","Australia","Melbourne","PBSC & 8D"
+"7","Australia","Melbourne","4 Gen. oBike"
+"8","Australia","Brisbane","3 Gen. Cyclocity"
+"9","Australia","Sydney","Reddy Go"
+"10","Australia","Sydney","4 Gen. oBike"
+"11","Australia","Sydney","4 Gen. Ofo"
+"12","Austria","Burgenland","3 Gen. nextbike"
+"13","Austria","Innsbruck",NA
+"14","Austria","Klagenfurt am Wörthersee",NA
+"15","Austria","Kufstein",NA
+"16","Austria","Lower Austria","3 Gen. nextbike"
+"17","Austria","Salzburg","3 Gen. nextbike"
+"18","Austria","Vienna","3 Gen. Cyclocity"
+"19","Austria","Vienna",NA
+"20","Austria","Vienna","2 Gen."
+"21","Austria","Vorarlberg","3 Gen. nextbike"
+"22","Bangladesh","Dhaka, Chattogram, Sylhet","JoBike"
+"23","Belgium","Aalst",NA
+"24","Belgium","Antwerp","3 Gen. Clear CC"
+"25","Belgium","Antwerp",NA
+"26","Belgium","Brussels",NA
+"27","Belgium","Brussels",NA
+"28","Belgium","Brussels","3 Gen. Cyclocity"
+"29","Belgium","Ghent",NA
+"30","Belgium","Ghent",NA
+"31","Belgium","Lille",NA
+"32","Belgium","Namur",NA
+"33","Belgium","Namur","3 Gen. Cyclocity"
+"34","Belgium","Various locations","Blue-bike"
+"35","Belgium","Various locations",NA
+"36","Bosnia and Herzegovina","Banja Luka","3 Gen. nextbike"
+"37","Bosnia and Herzegovina","Mostar","3 Gen. nextbike"
+"38","Bosnia and Herzegovina","Sarajevo","3 Gen. nextbike"
+"39","Bosnia and Herzegovina","Tuzla","3 Gen. nextbike"
+"40","Bosnia and Herzegovina","Zenica","3 Gen. nextbike"
+"41","Brazil","Belo Horizonte","Mobilicidade"
+"42","Brazil","Fortaleza","Mobilicidade"
+"43","Brazil","João Pessoa","Mobilicidade"
+"44","Brazil","(Pedro de) Toledo","Toopedalando"
+"45","Brazil","Rio de Janeiro","tembici"
+"46","Brazil","Salvador","tembici"
+"47","Brazil","São Paulo","tembici"
+"48","Brazil","Sorocaba","tembici"
+"49","Bulgaria","Burgas","Mobilicidade"
+"50","Canada","Hamilton","Social Bicycles"
+"51","Canada","Kitchener, Ontario","Community Access Bicycles"
+"52","Canada","Montreal","PBSC & 8D"
+"53","Canada","Quebec City","PBSC"
+"54","Canada","Toronto","PBSC"
+"55","Canada","Vancouver","3 Gen. CycleHop"
+"56","Canada","Victoria",NA
+"57","Chile","Santiago","3 Gen. B-Cycle"
+"58","China","Anqiu",NA
+"59","China","Baoji",NA
+"60","China","Beijing",NA
+"61","China","Changzhou",NA
+"62","China","Chengdu (Jinniu District)","Shanghai Forever Bicycle Co."
+"63","China","Chengdu (Gaoxin District [zh])",NA
+"64","China","Foshan",NA
+"65","China","Fuzhou",NA
+"66","China","Guangzhou",NA
+"67","China","Haikou",NA
+"68","China","Haining",NA
+"69","China","Hangzhou",NA
+"70","China","Heihe",NA
+"71","China","Heze",NA
+"72","China","Hohhot",NA
+"73","China","Huaian",NA
+"74","China","Huaibei",NA
+"75","China","Huangyan",NA
+"76","China","Huizhou",NA
+"77","China","Huzhou",NA
+"78","China","Jiangyin",NA
+"79","China","Jiaxing",NA
+"80","China","Jinhua",NA
+"81","China","Jiujiang",NA
+"82","China","Jiyuan",NA
+"83","China","Kaixian",NA
+"84","China","Kunshan","Forever Bicycle"
+"85","China","Lanxi",NA
+"86","China","Lanzhou",NA
+"87","China","Lhasa",NA
+"88","China","Linhai",NA
+"89","China","Lishui",NA
+"90","China","Luoyang",NA
+"91","China","Maanshan",NA
+"92","China","Nanning",NA
+"93","China","Nantong","Forever Publicbike Intelligent Systems"
+"94","China","Ningbo",NA
+"95","China","Qingzhou",NA
+"96","China","Shanghai","Forever Bicycle"
+"97","China","Shaoxing",NA
+"98","China","Shenzhen / Shekou / Xiaomeisha","Forever Bicycle"
+"99","China","Suzhou",NA
+"100","China","Taiyuan",NA
+"101","China","Taizhou, Jiangsu",NA
+"102","China","Taizhou, Jiangsu",NA
+"103","China","Weifang",NA
+"104","China","Wuhu",NA
+"105","China","Wuxi",NA
+"106","China","Xi'an",NA
+"107","China","Xuzhou",NA
+"108","China","Yangzhou",NA
+"109","China","Yantai",NA
+"110","China","Yiwu",NA
+"111","China","Yixing",NA
+"112","China","Yueyang",NA
+"113","China","Zhangjiagang","Forever Bicycle"
+"114","China","Zhenjiang",NA
+"115","China","Zhijin",NA
+"116","China","Zhongshan",NA
+"117","China","Zhuhai",NA
+"118","China","Zhuzhou","Foshan Tianzhou"
+"119","Colombia","Medellín","3 Gen (formally 0 Gen)"
+"120","Croatia","Hvar",NA
+"121","Croatia","Dalmacia",NA
+"122","Croatia","Osijek",NA
+"123","Croatia","Split",NA
+"124","Croatia","Various locations",NA
+"125","Croatia","Zadar",NA
+"126","Croatia","Zagreb","3 Gen. nextbike"
+"127","Cyprus","Caps St Georges",NA
+"128","Cyprus","Famagusta",NA
+"129","Cyprus","Larnaca",NA
+"130","Cyprus","Limassol","3 Gen. nextbike"
+"131","Cyprus","Limassol","3 Gen. Smoove"
+"132","Cyprus","Paphos",NA
+"133","Cyprus","Pissouri","own pedelecs"
+"134","Cyprus","Nicosia","EasyBike"
+"135","Cyprus","Nicosia",NA
+"136","Cyprus","Nicosia District","3 Gen. Smoove"
+"137","The Czech Republic","Brno",NA
+"138","The Czech Republic","Brno","4 Gen."
+"139","The Czech Republic","Brno",NA
+"140","The Czech Republic","České Budějovice","4 Gen."
+"141","The Czech Republic","Frýdek-Místek",NA
+"142","The Czech Republic","Frýdek-Místek","4 Gen."
+"143","The Czech Republic","Hradec Králové",NA
+"144","The Czech Republic","Hradec Králové","4 Gen."
+"145","The Czech Republic","Kladno",NA
+"146","The Czech Republic","Kladno","4 Gen."
+"147","The Czech Republic","Krnov",NA
+"148","The Czech Republic","Liberec",NA
+"149","The Czech Republic","Liberec","4 Gen."
+"150","The Czech Republic","Olomouc",NA
+"151","The Czech Republic","Olomouc","4 Gen."
+"152","The Czech Republic","Ostrava","3 Gen. nextbike"
+"153","The Czech Republic","Ostrava","4 Gen."
+"154","The Czech Republic","Pardubice","4 Gen."
+"155","The Czech Republic","Prague",NA
+"156","The Czech Republic","Prague","4 Gen."
+"157","The Czech Republic","Prague",NA
+"158","The Czech Republic","Prague 4",NA
+"159","The Czech Republic","Prague 7","4 Gen. Ofo"
+"160","The Czech Republic","Prostějov",NA
+"161","The Czech Republic","Prostějov","3 Gen. nextbike"
+"162","The Czech Republic","Teplice","4 Gen."
+"163","The Czech Republic","Various locations",NA
+"164","The Czech Republic","Žďár",NA
+"165","Denmark","Aarhus","2 Gen"
+"166","Denmark","Aarhus",NA
+"167","Denmark","Aarhus","2 Gen"
+"168","Denmark","Copenhagen",NA
+"169","Denmark","Copenhagen","Gobike"
+"170","Denmark","Copenhagen",NA
+"171","Denmark","Copenhagen",NA
+"172","Denmark","Copenhagen",NA
+"173","Denmark","Copenhagen","2 Gen"
+"174","Denmark","Farsø","2 Gen"
+"175","Denmark","Odense",NA
+"176","Denmark","Various locations",NA
+"177","Ecuador","Quito","BiciQ"
+"178","Estonia","Tallinn",NA
+"179","Estonia","Tartu",NA
+"180","Finland","Espoo","CityBike Finland"
+"181","Finland","Hamina","Donkey Republic"
+"182","Finland","Helsinki","3 Gen. Smoove"
+"183","Finland","Helsinki","2 Gen."
+"184","Finland","Hyvinkää","Donkey Republic"
+"185","Finland","Iisalmi","Donkey Republic"
+"186","Finland","Imatra","Donkey Republic"
+"187","Finland","Kotka","Donkey Republic"
+"188","Finland","Kouvola","Donkey Republic"
+"189","Finland","Kuopio","Freebike"
+"190","Finland","Lahti","Freebike"
+"191","Finland","Lappeenranta","Donkey Republic"
+"192","Finland","Mikkeli","Donkey Republic"
+"193","Finland","Mäntsälä","Donkey Republic"
+"194","Finland","Oulu",NA
+"195","Finland","Pori","Rolanbike"
+"196","Finland","Porvoo","Donkey Republic"
+"197","Finland","Raseborg","Donkey Republic"
+"198","Finland","Riihimäki","Donkey Republic"
+"199","Finland","Rauma","Easybike"
+"200","Finland","Seinäjoki","Easybike"
+"201","Finland","Tampere","CityBike Global"
+"202","Finland","Turku","Donkey Republic"
+"203","Finland","Turku","Nextbike"
+"204","Finland","Vaasa","4 Gen."
+"205","Finland","Vantaa","CityBike"
+"206","Finland","Varkaus","Juro"
+"207","France","Clermont-Ferrand","3 Gen. Smoove"
+"208","France","Grenoble","3 Gen. Smoove"
+"209","France","Grenoble",NA
+"210","France","Lyon","3 Gen. Cyclocity"
+"211","France","St. Etienne","3 Gen. Smoove"
+"212","France","Valence, Drôme","3 Gen. Smoove"
+"213","France","Belfort","3 Gen. Smoove"
+"214","France","Besançon","3 Gen. Cyclocity"
+"215","France","Chalon-sur-Saône","3 Gen. Smoove"
+"216","France","Dijon","3 Gen. Clear CC"
+"217","France","Rennes","3 Gen. Clear CC"
+"218","France","Vannes","OYBike"
+"219","France","Orléans","EFFIA"
+"220","France","Mulhouse","3 Gen. Cyclocity"
+"221","France","Nancy","3 Gen. Cyclocity"
+"222","France","Strasbourg","3 Gen. Smoove"
+"223","France","Strasbourg + Region",NA
+"224","France","Amiens","3 Gen. Cyclocity"
+"225","France","Calais","OYBike"
+"226","France","Dunkirk","Veolia"
+"227","France","Lille","Keolis"
+"228","France","Cergy-Pontoise","Cyclocity"
+"229","France","Créteil","3 Gen. Cyclocity"
+"230","France","Paris","3 Gen. Cyclocity"
+"231","France","Paris",NA
+"232","France","Paris Region",NA
+"233","France","Grand Paris","3 Gen. Smoove"
+"234","France","Bordeaux","Keolis"
+"235","France","Caen","3 Gen. Clear CC"
+"236","France","Rouen","3 Gen. Cyclocity"
+"237","France","La Rochelle","Homeport"
+"238","France","La Rochelle","Zero Generation"
+"239","France","Pau",NA
+"240","France","Poitiers",NA
+"241","France","Montpellier","3 Gen. Smoove"
+"242","France","Perpignan","3 Gen. Clear CC"
+"243","France","Toulouse","3 Gen. Cyclocity"
+"244","France","Angers","3 Gen. Cyclocity"
+"245","France","Nantes","3 Gen. Cyclocity"
+"246","France","Avignon","3 Gen. Smoove"
+"247","France","Marseille","3 Gen. Cyclocity"
+"248","France","Nice","OYBike"
+"249","Georgia","Batumi","3 Gen. SmooveKey"
+"250","Germany","Baden-Baden",NA
+"251","Germany","Baden-Baden","3 & 4 Gen. Call a Bike flex"
+"252","Germany","Freiburg im Breisgau","3 & 4 Gen. Call a Bike flex"
+"253","Germany","Freiburg im Breisgau","3 Gen. nextbike"
+"254","Germany","Friedrichshafen",NA
+"255","Germany","Heidelberg",NA
+"256","Germany","Heidelberg",NA
+"257","Germany","Karlsruhe",NA
+"258","Germany","Konstanz",NA
+"259","Germany","Mannheim",NA
+"260","Germany","Mannheim",NA
+"261","Germany","Offenburg","3 Gen. nextbike"
+"262","Germany","Ortenaukreis",NA
+"263","Germany","Region Mittlerer Oberrhein [de]","nextbike"
+"264","Germany","Reutlingen",NA
+"265","Germany","Stuttgart + Region","4 Gen. Call a Bike fix"
+"266","Germany","Tübingen",NA
+"267","Germany","Tübingen","3 Gen. nextbike"
+"268","Germany","Tuttlingen",NA
+"269","Germany","Überlingen",NA
+"270","Germany","Ulm",NA
+"271","Germany","Aschaffenburg","3 Call a Bike"
+"272","Germany","Aschaffenburg","3 Gen."
+"273","Germany","Augsburg",NA
+"274","Germany","Bamberg",NA
+"275","Germany","Cham",NA
+"276","Germany","Coburg","3 Gen. nextbike"
+"277","Germany","Erlangen","nextbike"
+"278","Germany","Fürth","nextbike"
+"279","Germany","Ingolstadt",NA
+"280","Germany","Landshut",NA
+"281","Germany","Lindau",NA
+"282","Germany","Munich",NA
+"283","Germany","Munich","4 Gen. Call a Bike flex"
+"284","Germany","Munich","3 Gen. nextbike"
+"285","Germany","Munich",NA
+"286","Germany","Nuremberg","Bluepingu e.V."
+"287","Germany","Nuremberg","3 & 4 Gen. nextbike"
+"288","Germany","Nuremberg","3 Gen. nextbike"
+"289","Germany","Regensburg",NA
+"290","Germany","Regensburg",NA
+"291","Germany","Schwabach","nextbike"
+"292","Germany","Straubing",NA
+"293","Germany","Würzburg",NA
+"294","Germany","Berlin",NA
+"295","Germany","Berlin",NA
+"296","Germany","Berlin","4 Gen."
+"297","Germany","Berlin","0. Gen"
+"298","Germany","Berlin","4 Gen."
+"299","Germany","Berlin","3 Gen. nextbike"
+"300","Germany","Berlin",NA
+"301","Germany","Berlin","3 & 4 Gen. Call a Bike flex"
+"302","Germany","Berlin","3 & 4 Gen. Call a Bike flex"
+"303","Germany","Berlin","4 Gen."
+"304","Germany","Berlin","4 Gen."
+"305","Germany","Berlin","4 Gen. Ofo"
+"306","Germany","Potsdam","3 Gen. nextbike"
+"307","Germany","Prignitz",NA
+"308","Germany","Bremen",NA
+"309","Germany","Bremen",NA
+"310","Germany","Bremen","4 Gen."
+"311","Germany","Hamburg",NA
+"312","Germany","Hamburg",NA
+"313","Germany","Hamburg","3 Gen. nextbike"
+"314","Germany","Hamburg","3 & 4 Gen. Call a Bike flex"
+"315","Germany","Hamburg",NA
+"316","Germany","Darmstadt",NA
+"317","Germany","Darmstadt","3 & 4 Gen. Call a Bike flex"
+"318","Germany","Dreieich","4 Gen."
+"319","Germany","Eschborn",NA
+"320","Germany","Frankfurt am Main",NA
+"321","Germany","Frankfurt am Main","3 & 4 Gen. Call a Bike flex"
+"322","Germany","Frankfurt am Main","3 Gen. nextbike"
+"323","Germany","Frankfurt am Main","4 Gen."
+"324","Germany","Frankfurt am Main","4 Gen."
+"325","Germany","Giessen",NA
+"326","Germany","Hanau",NA
+"327","Germany","Hanau",NA
+"328","Germany","Kassel",NA
+"329","Germany","Kassel",NA
+"330","Germany","Langen","4 Gen."
+"331","Germany","Marburg",NA
+"332","Germany","Offenbach",NA
+"333","Germany","Rüsselsheim",NA
+"334","Germany","Wiesbaden",NA
+"335","Germany","Wiesbaden",NA
+"336","Germany","Achim",NA
+"337","Germany","Göttingen",NA
+"338","Germany","Hannover",NA
+"339","Germany","Hannover",NA
+"340","Germany","Hannover",NA
+"341","Germany","Hannover",NA
+"342","Germany","Hannover","4 Gen. oBike"
+"343","Germany","Lüneburg",NA
+"344","Germany","Oldenburg",NA
+"345","Germany","Oldenburg",NA
+"346","Germany","Winsen (Luhe)",NA
+"347","Germany","Rostock",NA
+"348","Germany","Warnemünde",NA
+"349","Germany","Aachen","3 Gen."
+"350","Germany","Ahrweiler (district)","nextbike"
+"351","Germany","Bielefeld",NA
+"352","Germany","Bielefeld","3 Gen. nextbike"
+"353","Germany","Bochum","3 Gen. nextbike"
+"354","Germany","Bonn",NA
+"355","Germany","Bonn","3 & 4 Gen. Call a Bike flex"
+"356","Germany","Bottrop","3 Gen. nextbike"
+"357","Germany","Cologne",NA
+"358","Germany","Cologne","3 & 4 Gen. Call a Bike flex"
+"359","Germany","Cologne",NA
+"360","Germany","Cologne",NA
+"361","Germany","Cologne",NA
+"362","Germany","Dortmund","3 Gen. nextbike"
+"363","Germany","Duisburg","3 Gen. nextbike"
+"364","Germany","Düsseldorf",NA
+"365","Germany","Düsseldorf",NA
+"366","Germany","Düsseldorf","3 Gen. nextbike"
+"367","Germany","Düsseldorf",NA
+"368","Germany","Düsseldorf",NA
+"369","Germany","Düsseldorf","3 Gen. Call a Bike"
+"370","Germany","Düsseldorf","4 Gen."
+"371","Germany","Düsseldorf","4 Gen."
+"372","Germany","Essen","3 Gen. nextbike"
+"373","Germany","Euskirchen (district)","nextbike"
+"374","Germany","Gelsenkirchen","3 Gen. nextbike"
+"375","Germany","Gütersloh",NA
+"376","Germany","Gütersloh",NA
+"377","Germany","Hamm","3 Gen. nextbike"
+"378","Germany","Heinsberg (district)","nextbike"
+"379","Germany","Herne","3 Gen. nextbike"
+"380","Germany","Leverkusen",NA
+"381","Germany","Lippstadt",NA
+"382","Germany","Lünen","nextbike"
+"383","Germany","Mönchengladbach",NA
+"384","Germany","Mülheim","3 Gen. nextbike"
+"385","Germany","Münster",NA
+"386","Germany","Münster",NA
+"387","Germany","Ochtrup",NA
+"388","Germany","Oberhausen",NA
+"389","Germany","Oberhausen","3 Gen. nextbike"
+"390","Germany","Rheinisch-Bergischer Kreis","nextbike"
+"391","Germany","Rhein-Erft-Kreis","nextbike"
+"392","Germany","Rhein-Sieg-Kreis (west of the Rhine)","nextbike"
+"393","Germany","Rhein-Sieg-Kreis (east of the Rhine)","nextbike"
+"394","Germany","Siegerland","Velocity"
+"395","Germany","Witten","nextbike"
+"396","Germany","Kaiserslautern",NA
+"397","Germany","Kaiserslautern",NA
+"398","Germany","Ludwigshafen",NA
+"399","Germany","Mainz",NA
+"400","Germany","Mainz",NA
+"401","Germany","Rhine-Neckar Metropolitan Region","nextbike"
+"402","Germany","Saarbrücken",NA
+"403","Germany","Saarbrücken",NA
+"404","Germany","Dresden","nextbike"
+"405","Germany","Dresden","3 Gen. nextbike"
+"406","Germany","Dresden","nextbike"
+"407","Germany","Leipzig","3 Gen. nextbike"
+"408","Germany","Schkeuditz",NA
+"409","Germany","Taucha",NA
+"410","Germany","Halle (Saale)",NA
+"411","Germany","Halle (Saale)",NA
+"412","Germany","Magdeburg",NA
+"413","Germany","Magdeburg","3 Gen. nextbike"
+"414","Germany","Flensburg","3 Gen. nextbike"
+"415","Germany","Kiel + Region",NA
+"416","Germany","Lübeck",NA
+"417","Germany","Norderstedt",NA
+"418","Germany","Pinneberg",NA
+"419","Germany","Schlei Region",NA
+"420","Germany","Erfurt","3 Gen. nextbike"
+"421","Germany","Weimar",NA
+"422","Greece","Aigialeia","3 Gen."
+"423","Greece","Aktio-Vonitsa","3 Gen."
+"424","Greece","Ancient Olympia","3 Gen."
+"425","Greece","Corfu","3 Gen. Smoove"
+"426","Greece","Didymóteicho","3 Gen. Smoove"
+"427","Greece","East Mani","3 Gen. Smoove"
+"428","Greece","Ioannina","3 Gen. Smoove"
+"429","Greece","Iraklio","3 Gen. Smoove"
+"430","Greece","Karditsa","3 Gen. Smoove"
+"431","Greece","Kavala","3 Gen. Smoove"
+"432","Greece","Keratsini-Drapetsóna","3 Gen. Smoove"
+"433","Greece","Komotini","3 Gen. Smoove"
+"434","Greece","Marathónas","3 Gen."
+"435","Greece","Maroussi","3 Gen."
+"436","Greece","Moscháto-Távros","3 Gen."
+"437","Greece","Náfplion","3 Gen."
+"438","Greece","Naupactus","3 Gen. Smoove"
+"439","Greece","Municipality of Nafpaktosmunicipality bike rental","0 Gen."
+"440","Greece","Nea Erithréamunicipality bike rental","0 Gen."
+"441","Greece","Nea Smyrni","3 Gen."
+"442","Greece","Salonica","0 Gen."
+"443","Greece","Sikyona","3 Gen."
+"444","Hungary","Budapest","3 Gen."
+"445","Hungary","Esztergom",NA
+"446","Hungary","Győr",NA
+"447","Hungary","Kaposvár",NA
+"448","Hungary","Szeged","CityBike Szeged"
+"449","India","Bengaluru",NA
+"450","India","Mumbai",NA
+"451","India","Mysuru",NA
+"452","India","New Delhi",NA
+"453","Indonesia","Bandung","Banopolis"
+"454","Iran","Shiraz","4 Gen. Bdood"
+"455","Iran","Tehran","4 Gen. Bdood"
+"456","Ireland","Cork",NA
+"457","Ireland","Dublin","Cyclocity"
+"458","Ireland","Dublin Region",NA
+"459","Ireland","Dún Laoghaire",NA
+"460","Ireland","Galway",NA
+"461","Ireland","Kilkenny",NA
+"462","Ireland","Limerick",NA
+"463","Ireland","Limerick",NA
+"464","Ireland","Navan",NA
+"465","Ireland","Sligo",NA
+"466","Ireland","Waterford",NA
+"467","Ireland","Wexford",NA
+"468","Israel","Tel Aviv",NA
+"469","Israel","Tel Aviv",NA
+"470","Italy","Alpignano",NA
+"471","Italy","Bergamo",NA
+"472","Italy","Bologna",NA
+"473","Italy","Brescia",NA
+"474","Italy","Carugate",NA
+"475","Italy","Cernusco sul Naviglio",NA
+"476","Italy","Collegno",NA
+"477","Italy","Druento",NA
+"478","Italy","Ferrara",NA
+"479","Italy","Florence",NA
+"480","Italy","Florence",NA
+"481","Italy","Gorizia",NA
+"482","Italy","Grugliasco",NA
+"483","Italy","Milan","3 Gen. Clear CC"
+"484","Italy","Milan",NA
+"485","Italy","Milan","4 Gen."
+"486","Italy","Milan","Zehus"
+"487","Italy","Milan","4 Gen. Ofo"
+"488","Italy","Mondolfo",NA
+"489","Italy","Padua",NA
+"490","Italy","Padua",NA
+"491","Italy","Padua",NA
+"492","Italy","Pioltello",NA
+"493","Italy","Pisa",NA
+"494","Italy","Rimini",NA
+"495","Italy","Senigiallia",NA
+"496","Italy","Rome",NA
+"497","Italy","Rome",NA
+"498","Italy","Turin",NA
+"499","Italy","Turin",NA
+"500","Italy","Turin",NA
+"501","Italy","Varese",NA
+"502","Italy","Various locations",NA
+"503","Italy","Venaria Reale",NA
+"504","Italy","Venice (Mestre)",NA
+"505","Japan","Kyoto",NA
+"506","Japan","Toyama, Toyama","Cyclocity"
+"507","Japan","Yokohama",NA
+"508","Kazakhstan","Almaty","3 Gen. Smoove"
+"509","Kazakhstan","Astana","3 Gen. Smoove"
+"510","Kazakhstan","Shymkent","3 Gen. Smoove"
+"511","Latvia","Riga, Jurmala",NA
+"512","Latvia","Riga",NA
+"513","Lithuania","Vilnius","3 Gen. Cyclocity"
+"514","Lithuania","Kaunas",NA
+"515","Lithuania","Kaunas",NA
+"516","Luxembourg","Luxembourg City","3 Gen. Cyclocity"
+"517","Malaysia","George Town","Fast Rent Bike (PG)"
+"518","Mexico","Guadalajara","PBSC"
+"519","Mexico","Mexico City","3 Gen. Clear CC"
+"520","Mexico","Toluca (inactive)","PBSC"
+"521","Netherlands","Amsterdam","WhiteBikes"
+"522","Netherlands","Amsterdam",NA
+"523","Netherlands","Delft","4 Gen."
+"524","Netherlands","Eindhoven",NA
+"525","Netherlands","Eindhoven",NA
+"526","Netherlands","Enschede",NA
+"527","Netherlands","Groningen",NA
+"528","Netherlands","Hengelo",NA
+"529","Netherlands","Limburg (province)",NA
+"530","Netherlands","Nijmegen",NA
+"531","Netherlands","Rotterdam",NA
+"532","Netherlands","Rotterdam","4 Gen."
+"533","Netherlands","The Hague",NA
+"534","Netherlands","The Hague","4 Gen."
+"535","Netherlands","Utrecht",NA
+"536","Netherlands","Utrecht",NA
+"537","Netherlands","Various locations (especially railway stations)","OV-Fiets/Nederlandse Spoorwegen"
+"538","Netherlands","Various locations",NA
+"539","Netherlands","Various locations",NA
+"540","Norway","Drammen","3 Gen. Clear CC"
+"541","Norway","Oslo",NA
+"542","Norway","Oslo","3 Gen. Clear CC"
+"543","Norway","Sandnes","3 Gen. Clear CC"
+"544","Norway","Sandnes","WhiteBikes"
+"545","Norway","Trondheim","Bycykler"
+"546","Norway","Trondheim","3 Gen. Clear CC"
+"547","Poland","Białystok","3 Gen. nextbike"
+"548","Poland","Grodzisk Mazowiecki","3 Gen. nextbike"
+"549","Poland","Juchnowiec Kościelny","3 Gen. nextbike"
+"550","Poland","Metropolis GZM(Katowice, Gliwice, Chorzów, Sosnowiec, Dąbrowa Górnicza and 26 other gminas of the area)","4 Gen. nextbike"
+"551","Poland","Konstancin","3 Gen. nextbike"
+"552","Poland","Kraków",NA
+"553","Poland","Łódź","3 Gen. nextbike"
+"554","Poland","Lublin","3 Gen. nextbike"
+"555","Poland","Opole","3 Gen. nextbike"
+"556","Poland","Poznań","3 Gen. nextbike"
+"557","Poland","Rzeszów",NA
+"558","Poland","Sopot","3 Gen. nextbike"
+"559","Poland","Szczecin","3 Gen. nextbike"
+"560","Poland","Toruń",NA
+"561","Poland","Various locations",NA
+"562","Poland","Warsaw","3 Gen. nextbike"
+"563","Poland","Warsaw","3 Gen. nextbike"
+"564","Poland","Wrocław","3 Gen. nextbike"
+"565","Portugal","Águeda","3 Gen."
+"566","Portugal","Alcochete","3 Gen."
+"567","Portugal","Alenquer","3 Gen."
+"568","Portugal","Alijó","3 Gen."
+"569","Portugal","Alvito","3 Gen."
+"570","Portugal","Anadia","3 Gen."
+"571","Portugal","Aveiro","3 Gen."
+"572","Portugal","Benavente","3 Gen."
+"573","Portugal","Bragança","1 Gen."
+"574","Portugal","Cascais","1 Gen."
+"575","Portugal","Caldas da Raínha","3 Gen."
+"576","Portugal","Coruche","3 Gen."
+"577","Portugal","Covilhã","3 Gen."
+"578","Portugal","Entroncamento","3 Gen."
+"579","Portugal","Faro",NA
+"580","Portugal","Figueira da Foz","3 Gen."
+"581","Portugal","Graciosa","3 Gen."
+"582","Portugal","Lisbon",NA
+"583","Portugal","Lisbon","3 Gen."
+"584","Portugal","Lousada","3 Gen."
+"585","Portugal","Mealhada","3 Gen."
+"586","Portugal","Mesão Frio","1 Gen."
+"587","Portugal","Oliveira de Azeméis","2 Gen."
+"588","Portugal","Pombal","3 Gen."
+"589","Portugal","Santo Tirso","3 Gen."
+"590","Portugal","Seia","3 Gen."
+"591","Portugal","Torres Vedras","3 Gen."
+"592","Portugal","Valença, Monção, Vila Nova de Cerveira, Salvaterra do Minho, Tomiño","3 Gen."
+"593","Portugal","Various locations",NA
+"594","Portugal","Vila do Conde","3 Gen."
+"595","Portugal","Vilamoura","3 Gen."
+"596","Qatar","Doha",NA
+"597","Romania","Alba Iulia",NA
+"598","Romania","Bucharest","Proprietary"
+"599","Romania","Buzău",NA
+"600","Romania","Câmpia Turzii",NA
+"601","Romania","Drobeta",NA
+"602","Romania","Focsani",NA
+"603","Romania","Slatina",NA
+"604","Romania","Topoloveni",NA
+"605","Russia","Almetyevsk",NA
+"606","Russia","Kazan","3 Gen. Cyclocity"
+"607","Russia","Moscow","Smoove"
+"608","Russia","Saint Petersburg",NA
+"609","Russia","Various locations","4 Gen."
+"610","Russia","Various locations","4 Gen."
+"611","Saudi Arabia","Riyadh, Andorra Village",NA
+"612","Saudi Arabia","Riyadh",NA
+"613","Serbia","Novi Sad","Parking Servis"
+"614","Slovakia","Bratislava","Open Source Bike Share"
+"615","Slovakia","Bratislava",NA
+"616","Slovakia","Bratislava",NA
+"617","Slovakia","Bratislava","4 Gen."
+"618","Slovakia","Humenné",NA
+"619","Slovakia","Košice",NA
+"620","Slovakia","Krásno nad Kysucou",NA
+"621","Slovakia","Kysucké Nové Mesto",NA
+"622","Slovakia","Moldava nad Bodvou",NA
+"623","Slovakia","Nitra","nextbike"
+"624","Slovakia","Poprad, Spišská Teplica",NA
+"625","Slovakia","Považská Bystrica",NA
+"626","Slovakia","Prešov, Veľký Šariš",NA
+"627","Slovakia","Sabinov",NA
+"628","Slovakia","Sečovce",NA
+"629","Slovakia","Senec",NA
+"630","Slovakia","Senica",NA
+"631","Slovakia","Snina",NA
+"632","Slovakia","Svidník",NA
+"633","Slovakia","Svit",NA
+"634","Slovakia","Terchová",NA
+"635","Slovakia","Trebišov",NA
+"636","Slovakia","Trnava",NA
+"637","Slovakia","Vranov nad Topľou",NA
+"638","Slovakia","Žilina","nextbike"
+"639","Slovakia","Žilina",NA
+"640","Slovenia","Celje",NA
+"641","Slovenia","Kamnik",NA
+"642","Slovenia","Kranj",NA
+"643","Slovenia","Ljubljana","Cyclocity"
+"644","Slovenia","Ljubljana",NA
+"645","Slovenia","Novo Mesto",NA
+"646","Slovenia","Murska Sobota",NA
+"647","Slovenia","Rogaška Slatina and Podčetrtek",NA
+"648","Slovenia","Velenje","MICikel"
+"649","Slovenia","Various locations",NA
+"650","South Africa","Orania, Northern Cape",NA
+"651","South Korea","Changwon",NA
+"652","South Korea","Daejeon","Tashu"
+"653","South Korea","Sejong","Eouling & New Eouling"
+"654","South Korea","Seoul",NA
+"655","Spain","A Coruña",NA
+"656","Spain","Arteixo",NA
+"657","Spain","Barcelona","3 Gen. Clear CC"
+"658","Spain","Barcelona",NA
+"659","Spain","Barcelona",NA
+"660","Spain","Barcelona",NA
+"661","Spain","Province of Barcelona","nextbike"
+"662","Spain","Bilbao",NA
+"663","Spain","Biscay",NA
+"664","Spain","Canary Islands",NA
+"665","Spain","Córdoba","3 Gen. Cyclocity"
+"666","Spain","Costa Adeje Region",NA
+"667","Spain","Elche (Elx)",NA
+"668","Spain","Estepona",NA
+"669","Spain","Gijón",NA
+"670","Spain","Girona",NA
+"671","Spain","Ibiza",NA
+"672","Spain","Ibiza",NA
+"673","Spain","Las Palmas de Gran Canaria",NA
+"674","Spain","León",NA
+"675","Spain","Logroño",NA
+"676","Spain","Madrid",NA
+"677","Spain","Málaga, Andalucía","Cemusa"
+"678","Spain","Málaga, Andalucía",NA
+"679","Spain","Mislata",NA
+"680","Spain","Murcia, Region of Murcia",NA
+"681","Spain","Ontinyent",NA
+"682","Spain","Palma","nextbike"
+"683","Spain","Pamplona",NA
+"684","Spain","Santander",NA
+"685","Spain","Santander","3 Gen. Cyclocity"
+"686","Spain","Santa Cruz de Tenerife",NA
+"687","Spain","Terragona",NA
+"688","Spain","Seville","3 Gen. Cyclocity"
+"689","Spain","Torrent",NA
+"690","Spain","Urdaibai",NA
+"691","Spain","Valencia","3 Gen. Cyclocity"
+"692","Spain","Valladolid",NA
+"693","Spain","Zaragoza","3 Gen. Clear CC"
+"694","Sweden","Gothenburg",NA
+"695","Sweden","Gothenburg",NA
+"696","Sweden","Gothenburg","3 Gen. Cyclocity"
+"697","Sweden","Lund","3 Gen. Cyclocity"
+"698","Sweden","Malmö",NA
+"699","Sweden","Malmö","3 Gen. Clear CC"
+"700","Sweden","Stockholm",NA
+"701","Sweden","Stockholm","3 Gen. Clear CC"
+"702","Sweden","Various locations",NA
+"703","Switzerland","Aigle, Monthey","PubliBike"
+"704","Switzerland","Bern","PubliBike"
+"705","Switzerland","Chur","nextbike"
+"706","Switzerland","Freiburg","PubliBike"
+"707","Switzerland","Geneva",NA
+"708","Switzerland","Lausanne","PubliBike"
+"709","Switzerland","Lausanne",NA
+"710","Switzerland","Lugano","PubliBike"
+"711","Switzerland","Luzern","3 Gen. nextbike"
+"712","Switzerland","Nyon, Gland","PubliBike"
+"713","Switzerland","Schaffhausen",NA
+"714","Switzerland","Sion","PubliBike"
+"715","Switzerland","St. Gallen",NA
+"716","Switzerland","Uzwil",NA
+"717","Switzerland","Various locations",NA
+"718","Switzerland","Various locations",NA
+"719","Switzerland","Vevey","PubliBike"
+"720","Switzerland","Winterthur",NA
+"721","Taiwan","Changhua","1.0"
+"722","Taiwan","Changhua",NA
+"723","Taiwan","Kaohsiung",NA
+"724","Taiwan","Kaohsiung","2.0"
+"725","Taiwan","Kaohsiung","2.0E"
+"726","Taiwan","Taipei","1.0"
+"727","Taiwan","Taipei","2.0"
+"728","Taiwan","Taipei","2.0E"
+"729","Taiwan","New Taipei City",NA
+"730","Taiwan","New Taipei City","1.0"
+"731","Taiwan","New Taipei City","2.0"
+"732","Taiwan","New Taipei City","2.0E"
+"733","Taiwan","Taoyuan","1.0"
+"734","Taiwan","Taoyuan","2.0"
+"735","Taiwan","Taoyuan","2.0E"
+"736","Taiwan","Hsinchu County","2.0"
+"737","Taiwan","Hsinchu County","2.0E"
+"738","Taiwan","Hsinchu","1.0"
+"739","Taiwan","Hsinchu","2.0"
+"740","Taiwan","Hsinchu Science Park","1.0"
+"741","Taiwan","Hsinchu Science Park","2.0"
+"742","Taiwan","Hsinchu Science Park","2.0E"
+"743","Taiwan","Miaoli","1.0"
+"744","Taiwan","Miaoli","2.0"
+"745","Taiwan","Miaoli","2.0E"
+"746","Taiwan","Taichung","1.0 (iBike)"
+"747","Taiwan","Taichung","2.0"
+"748","Taiwan","Taichung","2.0E"
+"749","Taiwan","Chiayi",NA
+"750","Taiwan","Chiayi","2.0"
+"751","Taiwan","Chiayi","2.0E"
+"752","Taiwan","Chiayi County","2.0"
+"753","Taiwan","Chiayi County","2.0E"
+"754","Taiwan","Tainan",NA
+"755","Taiwan","Tainan","2.0"
+"756","Taiwan","Tainan","2.0E"
+"757","Taiwan","Pingtung City",NA
+"758","Taiwan","Pingtung City","2.0"
+"759","Taiwan","Pingtung City","2.0E"
+"760","Taiwan","Yunlin County",NA
+"761","Taiwan","Kinmen",NA
+"762","Taiwan","Taitung City","2.0"
+"763","Taiwan","Taitung City","2.0E"
+"764","Thailand","Bangkok","Mobike"
+"765","Thailand","Bangkok","Smoove"
+"766","Thailand","Bangkok",NA
+"767","Thailand","Bangkok","4 Gen. oBike"
+"768","Thailand","Chiang Mai","Mobike"
+"769","Turkey","Istanbul",NA
+"770","Turkey","İzmir",NA
+"771","Turkey","Karşıyaka","3 Gen. nextbike"
+"772","Turkey","Konya","3 Gen. nextbike"
+"773","Ukraine","Kyiv","3 Gen. nextbike"
+"774","Ukraine","Lviv","3 Gen. nextbike"
+"775","United Arab Emirates","Abu Dhabi","8D"
+"776","United Arab Emirates","Dubai, Dubai Hills Mall",NA
+"777","United Arab Emirates","Dubai, Expo 2020 District",NA
+"778","United Arab Emirates","Ras Al-Khaimah",NA
+"779","United Arab Emirates","Sharjah, American University of Sharjah",NA
+"780","United Kingdom","Basildon",NA
+"781","United Kingdom","Bath",NA
+"782","United Kingdom","Bath",NA
+"783","United Kingdom","Barton-upon-Humber","WhiteBikes"
+"784","United Kingdom","Blackpool","Hourbike"
+"785","United Kingdom","Braintree",NA
+"786","United Kingdom","Bristol",NA
+"787","United Kingdom","Bristol",NA
+"788","United Kingdom","Bristol","YoBike"
+"789","United Kingdom","Cambridge","WhiteBikes"
+"790","United Kingdom","Chelmsford",NA
+"791","United Kingdom","Colchester",NA
+"792","United Kingdom","Colchester",NA
+"793","United Kingdom","Derby",NA
+"794","United Kingdom","Greater Manchester",NA
+"795","United Kingdom","Liverpool",NA
+"796","United Kingdom","London","PBSC & 8D"
+"797","United Kingdom","London",NA
+"798","United Kingdom","Leicester",NA
+"799","United Kingdom","Milton Keynes","3 Gen. nextbike"
+"800","United Kingdom","Milton Keynes",NA
+"801","United Kingdom","Milton Keynes",NA
+"802","United Kingdom","Newcastle","ScratchBikes"
+"803","United Kingdom","Nottingham","Sustrans & Evans Cycles"
+"804","United Kingdom","Portsmouth","Public Velo"
+"805","United Kingdom","Slough","3 Gen. Smoove"
+"806","United Kingdom","Southampton","YoBike"
+"807","United Kingdom","Belfast","3 Gen. nextbike"
+"808","United Kingdom","Dundee",NA
+"809","United Kingdom","Edinburgh","Urban Sharing"
+"810","United Kingdom","Glasgow","3 Gen. nextbike"
+"811","United Kingdom","Cardiff","3 Gen. nextbike"
+"812","United States","Fairbanks","A2B Bikeshare"
+"813","United States","Phoenix","3 Gen. CycleHop and Social Bicycles"
+"814","United States","Bentonville",NA
+"815","United States","Encinitas",NA
+"816","United States","Fullerton","Bike Nation"
+"817","United States","Los Angeles","3 Gen. B-Cycle"
+"818","United States","Redding",NA
+"819","United States","San Diego","DecoBike"
+"820","United States","San Francisco Bay Area","8D"
+"821","United States","Santa Barbara",NA
+"822","United States","Santa Cruz",NA
+"823","United States","Santa Monica","3 Gen. CycleHop and Social Bicycles"
+"824","United States","Truckee",NA
+"825","United States","Aspen","PBSC"
+"826","United States","Boulder","3 Gen. B-Cycle"
+"827","United States","Denver","3 Gen. B-Cycle"
+"828","United States","Meridian","Zagster"
+"829","United States","Atlanta",NA
+"830","United States","Savannah","3 Gen. B-Cycle"
+"831","United States","Honolulu",NA
+"832","United States","Kailua","3 Gen. B-Cycle"
+"833","United States","Kona District","PBSC"
+"834","United States","Boise","Social Bicycle"
+"835","United States","Chicago","PBSC & 8D"
+"836","United States","Indianapolis","B-Cycle"
+"837","United States","Des Moines","3 Gen. B-Cycle"
+"838","United States","Aventura",NA
+"839","United States","Fort Lauderdale, Broward County","3 Gen. B-Cycle"
+"840","United States","Miami Beach","SandVault"
+"841","United States","Tampa","3 Gen. CycleHop and Social Bicycles"
+"842","United States","Boston","PBSC & 8D"
+"843","United States","Springfield and Pioneer Valley",NA
+"844","United States","Ann Arbor","3 Gen. B-Cycle"
+"845","United States","Battle Creek","3 Gen. B-Cycle"
+"846","United States","Lansing","A2B Bikeshare"
+"847","United States","Minneapolis–Saint Paul","PBSC & 8D"
+"848","United States","St. Paul","1 Gen. w/ BikeCard"
+"849","United States","Jackson County",NA
+"850","United States","Kansas City","3 Gen. B-Cycle"
+"851","United States","Lincoln","3 Gen. B-Cycle"
+"852","United States","Omaha / Council Bluffs, Iowa","3 Gen. B-Cycle"
+"853","United States","Valentine","BCycle"
+"854","United States","Black Rock City","Yellow Bikes"
+"855","United States","Las Vegas","B-Cycle"
+"856","United States","Hoboken","3 Gen. nextbike"
+"857","United States","Jersey City","8D"
+"858","United States","New York City","PBSC & 8D"
+"859","United States","Charlotte","3 Gen. B-Cycle"
+"860","United States","Bismarck",NA
+"861","United States","Fargo","3 Gen. B-Cycle"
+"862","United States","Cincinnati","3 Gen. B-Cycle"
+"863","United States","Columbus","PBSC & 8D"
+"864","United States","Oklahoma City","Spokies"
+"865","United States","Eugene","PeaceHealth Rides"
+"866","United States","Portland",NA
+"867","United States","Portland","1 Gen. WhiteBikes"
+"868","United States","Philadelphia","3 Gen. B-Cycle (incl. some e-bikes"
+"869","United States","Pittsburgh","PBSC"
+"870","United States","Columbia",NA
+"871","United States","Greenville",NA
+"872","United States","Spartanburg","3 Gen. B-Cycle"
+"873","United States","Chattanooga","PBSC"
+"874","United States","Clarksville",NA
+"875","United States","Memphis",NA
+"876","United States","Nashville",NA
+"877","United States","Austin","3 Gen. B-Cycle"
+"878","United States","Austin","WhiteBikes"
+"879","United States","El Paso","3 Gen. B-Cycle"
+"880","United States","Fort Worth","3 Gen. B-Cycle"
+"881","United States","Houston","3 Gen. B-Cycle"
+"882","United States","San Antonio","3 Gen. B-Cycle"
+"883","United States","Weslaco",NA
+"884","United States","Salt Lake City","3 Gen. B-Cycle"
+"885","United States","Seattle","8D"
+"886","United States","Washington metropolitan area","PBSC & 8D"
+"887","United States","Madison","3 Gen. B-Cycle"
+"888","United States","Milwaukee","3 Gen. B-Cycle"
+"889","Uzbekistan","Tashkent","4 Gen."
