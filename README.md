@@ -41,7 +41,7 @@ Install packages using:
 ```r
 install.packages(c("httr", "jsonlite", "rvest", "dplyr", "stringr", "readr", "lubridate", "tidyr", "fastDummies"))
 
-# In R or RStudio
+
 source("scripts/data_pipeline.R")
 
 
