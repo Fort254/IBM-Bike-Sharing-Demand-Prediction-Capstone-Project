@@ -1,5 +1,6 @@
-#IBM-Bike-Sharing-Demand-Prediction-Capstone-Project
+# 🚲 IBM Bike Sharing Systems & Weather Data Integration Project
 
+This project combines **web scraping**, **weather API interaction**, and **data preprocessing** in R to support exploratory analysis and modeling of bike sharing demand across global cities. The primary focus is on the **Seoul Bike Sharing Dataset**, enriched with weather data from the **OpenWeatherMap API**.
 
 ---
 
@@ -39,4 +40,8 @@ Install packages using:
 
 ```r
 install.packages(c("httr", "jsonlite", "rvest", "dplyr", "stringr", "readr", "lubridate", "tidyr", "fastDummies"))
+
+# In R or RStudio
+source("scripts/data_pipeline.R")
+
 
