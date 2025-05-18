@@ -49,7 +49,7 @@ source("scripts/data_pipeline.R")
 
 * Clone the repository.
 
-* Open NOAA WEATHER FULL DATASET ANALYSIS.R in RStudio.
+* Open the file in RStudio.
 
 * Run line-by-line or as a full script.
 
