@@ -38,13 +38,14 @@ This project combines **web scraping**, **weather API interaction**, and **data 
 
 Install packages using:
 
-```r
 install.packages(c("httr", "jsonlite", "rvest", "dplyr", "stringr", "readr", "lubridate", "tidyr", "fastDummies"))
 
 
 source("scripts/data_pipeline.R")
 
-### How to Run
+---
+
+### How to run
 
 * Clone the repository.
 
@@ -53,6 +54,8 @@ source("scripts/data_pipeline.R")
 * Run line-by-line or as a full script.
 
 Note: Required packages will be installed automatically if not already present.
+
+---
 
 ### Author
 Fortunatus Ochieng
