@@ -1,4 +1,4 @@
-# IBM Bike Sharing Systems & Weather Data Integration Project
+# IBM Bike Sharing Systems and Weather Data Integration Project
 
 This project combines **web scraping**, **weather API interaction**, and **data preprocessing** in R to support exploratory analysis and modeling of bike sharing demand across global cities. The aim is to build predictive models that can accurately estimate the number of bikes rented under various weather conditions and temporal factors.
 
@@ -11,7 +11,7 @@ This project combines **web scraping**, **weather API interaction**, and **data 
 
 ---
 
-##  Project Workflow
+## Project Workflow
 
  **Data Collection**:
    - Scrapes Wikipedia for a list of bike sharing systems.
