@@ -44,6 +44,19 @@ install.packages(c("httr", "jsonlite", "rvest", "dplyr", "stringr", "readr", "lu
 source("scripts/data_pipeline.R")
 
 ---
+## 🚀 Future Enhancements
+
+- Incorporate real-time streaming weather data.
+- Extend to time series or machine learning models (e.g., XGBoost, LSTM).
+- Deploy as an interactive Shiny dashboard.
+
+---
+
+## 🔑 API Usage
+
+This project uses **OpenWeatherMap API** — ensure you have a valid API key. Replace `"your_api_key_here"` with your actual key in the script.
+
+---
 
 ### How to run
 
