@@ -1,8 +1,13 @@
 # 🚲 IBM Bike Sharing Systems & Weather Data Integration Project
 
-This project combines **web scraping**, **weather API interaction**, and **data preprocessing** in R to support exploratory analysis and modeling of bike sharing demand across global cities. The primary focus is on the **Seoul Bike Sharing Dataset**, enriched with weather data from the **OpenWeatherMap API**.
+This project combines **web scraping**, **weather API interaction**, and **data preprocessing** in R to support exploratory analysis and modeling of bike sharing demand across global cities. The aim is to build predictive models that can accurately estimate the number of bikes rented under various weather conditions and temporal factors.
 
 ---
+### 📁 Data Sources
+
+- Seoul Bike Sharing Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
+- World Cities: [Simplemaps](https://simplemaps.com/data/world-cities)
+- OpenWeatherMap API: [https://openweathermap.org/api](https://openweathermap.org/api)
 
 ## 🔍 Key Features
 
@@ -22,12 +27,6 @@ This project combines **web scraping**, **weather API interaction**, and **data 
 - Converts categorical columns to dummy variables (`SEASONS`, `HOLIDAY`, `FUNCTIONING_DAY`).
 - Normalizes continuous variables for modeling purposes (0–1 scale).
 
-### 📁 Data Sources
-
-- Seoul Bike Sharing Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
-- World Cities: [Simplemaps](https://simplemaps.com/data/world-cities)
-- OpenWeatherMap API: [https://openweathermap.org/api](https://openweathermap.org/api)
-
 ---
 
 ## 🔧 Requirements
@@ -42,6 +41,13 @@ install.packages(c("httr", "jsonlite", "rvest", "dplyr", "stringr", "readr", "lu
 
 
 source("scripts/data_pipeline.R")
+
+---
+
+## 📈 Results
+
+- The final model aims to minimize RMSE and maximize interpretability.
+- Key predictors include weather variables (temperature, humidity, etc.), time factors (hour, day, month), and engineered interactions.
 
 ---
 ## 🚀 Future Enhancements
