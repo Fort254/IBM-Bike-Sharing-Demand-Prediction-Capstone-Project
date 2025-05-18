@@ -9,23 +9,27 @@ This project combines **web scraping**, **weather API interaction**, and **data 
 - World Cities: [Simplemaps](https://simplemaps.com/data/world-cities)
 - OpenWeatherMap API: [https://openweathermap.org/api](https://openweathermap.org/api)
 
-## 🔍 Key Features
+---
 
-### 🌐 Web Scraping
+## 🔍 Project Workflow
 
-- Scrapes [Wikipedia's list of bicycle sharing systems](https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems) to extract and clean data on cities with active programs.
-- Removes inline citation references using regex.
+1. **Data Collection**:
+   - Scrapes Wikipedia for a list of bike sharing systems.
+   - Uses OpenWeatherMap API to get current and forecast weather.
 
-### ☁️ Weather API Integration
+2. **Data Cleaning & Feature Engineering**:
+   - Converts variables to appropriate formats.
+   - Normalizes numerical variables.
+   - Creates dummy variables for categorical predictors.
+   - Explores polynomial and interaction terms.
 
-- Retrieves **current weather** and **forecast data** using OpenWeatherMap for key cities.
-- Supports batch querying and structured JSON parsing.
+3. **Modeling**:
+   - Performs OLS regression.
+   - Compares models using AIC, VIF, adjusted R², and residual diagnostics.
 
-### 🧹 Data Cleaning & Wrangling
-
-- Handles missing temperature values via seasonal means.
-- Converts categorical columns to dummy variables (`SEASONS`, `HOLIDAY`, `FUNCTIONING_DAY`).
-- Normalizes continuous variables for modeling purposes (0–1 scale).
+4. **Evaluation**:
+   - Visualizes residuals, correlations, and prediction performance.
+   - Calculates RMSE and MAE for performance measurement.
 
 ---
 
