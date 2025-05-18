@@ -44,4 +44,19 @@ install.packages(c("httr", "jsonlite", "rvest", "dplyr", "stringr", "readr", "lu
 
 source("scripts/data_pipeline.R")
 
+### How to Run
 
+* Clone the repository.
+
+* Open NOAA WEATHER FULL DATASET ANALYSIS.R in RStudio.
+
+* Run line-by-line or as a full script.
+
+Note: Required packages will be installed automatically if not already present.
+
+### Author
+Fortunatus Ochieng
+Data Scientist | BSc Statistic
+
+### License
+This project is open-source and free to use under the MIT License.
