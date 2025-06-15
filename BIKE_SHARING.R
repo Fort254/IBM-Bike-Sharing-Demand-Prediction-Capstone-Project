@@ -16,7 +16,7 @@ bike_sharing_df<-html_table(table_nodes,fill=TRUE)
 glimpse(bike_sharing_df)
 
 #Drop the second duplicate Country column by position and create a new data frame
-new_bike_sharing_df <- bike_sharing_df %>% select(-2)
+new_bike_sharing_df <- bike_sharing_df[, !duplicated(names(bike_sharing_df))]
 colnames(new_bike_sharing_df)
 #Rename the column city/region to city
 new_bike_sharing_df<-new_bike_sharing_df%>%rename(City = `City / Region`)
@@ -223,22 +223,23 @@ bike_sharing_df %>%
 ref_pattern <- "\\[[A-z0-9]+\\]"
 find_reference_pattern <- function(strings) grepl(ref_pattern, strings)
 
-bike_sharing_df %>% 
-  select(COUNTRY) %>% 
+#Check whether the COUNTRY column has any reference links
+bike_sharing_systems %>%
   filter(find_reference_pattern(COUNTRY)) %>%
-  slice(0:10)
+  dplyr::select(COUNTRY) %>%
+  slice(1:10)
 
-# Check whether the CITY column has any reference links
-bike_sharing_df %>% 
-  select(CITY) %>% 
+#check whether the CITY column has any reference links
+bike_sharing_systems %>%
   filter(find_reference_pattern(CITY)) %>%
-  slice(0:10)
+  dplyr::select(CITY) %>%
+  slice(1:10)
 
-# Check whether the System column has any reference links
-bike_sharing_df %>% 
-  select(SYSTEM) %>% 
+#check whether the SYSTEMS column has any reference links
+bike_sharing_systems %>%
   filter(find_reference_pattern(SYSTEM)) %>%
-  slice(0:10)
+  dplyr::select(SYSTEM) %>%
+  slice(1:10)
 
 #Remove undesired reference links using regular expressions
 remove_ref <- function(strings) {
@@ -255,8 +256,8 @@ bike_sharing_df <- bike_sharing_df %>%
     COUNTRY = remove_ref(COUNTRY)
   )
 #checking whether all reference links have been removed
-bike_sharing_df %>% 
-  select(CITY, SYSTEM, COUNTRY) %>% 
+bike_sharing_systems %>% 
+  dplyr::select(CITY, SYSTEM, COUNTRY) %>% 
   filter(find_reference_pattern(CITY) | find_reference_pattern(SYSTEM) | find_reference_pattern(COUNTRY))
 
 write.csv(bike_sharing_df,"web_scrapped_clean_bike_sharing_systems.csv")
